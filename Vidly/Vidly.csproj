@@ -188,6 +188,10 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Movies\Random.cshtml" />
+    <Content Include="Views\Movies\Content.cshtml" />
+    <Content Include="Views\Movies\ReturnEmpty.cshtml" />
+    <Content Include="Views\Movies\ReturnJSON.cshtml" />
+    <Content Include="Views\Movies\HttpNotFound.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
